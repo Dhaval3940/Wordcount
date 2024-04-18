@@ -1,0 +1,8 @@
+wordcount.content:
+  path: 'admin/config/content/wordcount' 
+  defaults: 
+    _controller: '\Drupal\wordcount\Controller\WordCountController::content'
+    _description: 'View stats on the nodes and comments contributed by each user.'
+    _title: 'Word Count'
+  requirements: 
+    _permission: 'access administration pages' 

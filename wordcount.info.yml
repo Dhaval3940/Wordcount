@@ -1,0 +1,5 @@
+name: 'Word Count'
+type: module
+description: 'View stats on the nodes and comments contributed by each user.'
+core_version_requirement: ^9 || ^10
+package: Custom

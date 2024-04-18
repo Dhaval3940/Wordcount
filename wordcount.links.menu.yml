@@ -1,0 +1,5 @@
+wordcount.content:
+  title: Word Count
+  description: 'View stats on the nodes and comments contributed by each user.'
+  route_name: wordcount.content
+  parent: system.admin_config_content
